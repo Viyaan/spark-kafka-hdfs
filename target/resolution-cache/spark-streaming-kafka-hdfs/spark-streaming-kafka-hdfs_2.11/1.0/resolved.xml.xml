@@ -4,7 +4,7 @@
 		module="spark-streaming-kafka-hdfs_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20171009001748"
+		publication="20171009004308"
 	>
 		<description>
 		spark-streaming-kafka-hdfs
@@ -38,5 +38,6 @@
 		<dependency org="org.apache.spark" name="spark-streaming_2.11" rev="2.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-streaming-kafka-0-10_2.11" rev="2.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.kafka" name="kafka-clients" rev="0.11.0.1" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-sql_2.11" rev="2.2.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

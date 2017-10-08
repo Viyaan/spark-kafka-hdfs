@@ -94,7 +94,6 @@
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\net.java.dev.jets3t\jets3t\jars\jets3t-0.9.3.jar"/>
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.httpcomponents\httpcore\jars\httpcore-4.3.3.jar"/>
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.httpcomponents\httpclient\jars\httpclient-4.3.6.jar"/>
-  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.8.jar"/>
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\javax.activation\activation\jars\activation-1.1.1.jar"/>
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\mx4j\mx4j\jars\mx4j-3.0.2.jar"/>
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\javax.mail\mail\jars\mail-1.4.7.jar"/>
@@ -151,6 +150,20 @@
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\com.yammer.metrics\metrics-core\jars\metrics-core-2.2.0.jar"/>
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.kafka\kafka-clients\jars\kafka-clients-0.11.0.1.jar"/>
   <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.25.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.2.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\com.univocity\univocity-parsers\jars\univocity-parsers-2.2.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.spark\spark-sketch_2.11\jars\spark-sketch_2.11-2.2.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.2.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.codehaus.janino\janino\jars\janino-3.0.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.codehaus.janino\commons-compiler\jars\commons-compiler-3.0.0.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.antlr\antlr4-runtime\jars\antlr4-runtime-4.5.3.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.parquet\parquet-column\jars\parquet-column-1.8.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.parquet\parquet-common\jars\parquet-common-1.8.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.parquet\parquet-encoding\jars\parquet-encoding-1.8.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.parquet\parquet-hadoop\jars\parquet-hadoop-1.8.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.parquet\parquet-format\jars\parquet-format-2.3.1.jar"/>
+  <classpathentry kind="lib" path="C:\Users\Admin\.ivy2\cache\org.apache.parquet\parquet-jackson\jars\parquet-jackson-1.8.2.jar"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
   <classpathentry kind="output" path="bin"/>
 </classpath>
